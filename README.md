@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/22XploiterCrew-Team/Wpushell/main/pictures/main-logo.jpg" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/trhacknon/Wpushell/main/pictures/main-logo.jpg" /></p>
 
 <p align="center">
    <img src="https://img.shields.io/badge/Python-3.10.6-blue?style=flat-square"/>
@@ -26,9 +26,9 @@ The first thing to be prepared is, of course, your computer must have ***python 
 <br>
 There are several ways of installation:
 #### Manual Installation
-1. Clone or [download] (https://github.com/22XploiterCrew-Team/Wpushell) repository.
+1. Clone or [download] (https://github.com/trhacknon/Wpushell) repository.
 ```sh
-git clone https://github.com/22XploiterCrew-Team/Wpushell.git
+git clone https://github.com/trhacknon/Wpushell.git
 ```
 
 2. Perform the installation of the required dependencies which have been written in the `requirements.txt` file.
@@ -77,7 +77,7 @@ wpushell sites.txt
 
 Or combine tool with other through input/output pipelining:
 ```sh
-cat randsx/22xploitercrew/wordpress-sites.txt | wpushell -fstdin
+cat randsx/trhacknon/wordpress-sites.txt | wpushell -fstdin
 ```
 
 #### Target text format (IMPORTANT)
@@ -110,7 +110,7 @@ You can search for proxies through the websites of free proxy providers such as 
 
 ## Program encountered an error
 
-If you find any errors in this tool, we hope you can help us by contributing to make this tool even better than before, or you can create a [new issue](https://github.com/22XploiterCrew-Team/Wpushell/issues/new/choose) to describe the program errors you find.
+If you find any errors in this tool, we hope you can help us by contributing to make this tool even better than before, or you can create a [new issue](https://github.com/trhacknon/Wpushell/issues/new/choose) to describe the program errors you find.
 
 ## License
 
