@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/trhacknon/Wpushell/main/pictures/main-logo.jpg" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/trhacknon/Wpushell/main/pictures/IMG_20220831_191925.jpg" /></p>
 
 <p align="center">
    <img src="https://img.shields.io/badge/Python-3.10.6-blue?style=flat-square"/>
